@@ -45,7 +45,7 @@
 
 <br />
 
-### 🎧 Spotify Playing
+### 🎧 Vibing to:
 [<img src="https://spotify-now-playing-readme.vercel.app/api/spotify" alt="Kp Spotify Playing" width="350" />](https://open.spotify.com/user/kaps01)
 
 ---
