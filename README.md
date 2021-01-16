@@ -12,12 +12,12 @@
   <img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
   <img align="left" alt="JavaScript" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="TypeScript" width="26px" height="26px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
-  <img align="left" alt="React" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" />
-  <img align="left" alt="Redux" width="26px" height="26px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
+  <img align="left" alt="TypeScript" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/typescript/typescript-original.svg" />
+  <img align="left" alt="React" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg" />
+  <img align="left" alt="Redux" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/redux/redux-original.svg" />
   <img align="left" alt="Gatsby" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
   <img align="left" alt="NextJS" width="26px" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
-  <img align="left" alt="Webpack" width="29px" height="29px" src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" />
+  <img align="left" alt="Webpack" width="29px" height="29px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/webpack/webpack-original.svg" />
 </div>
 
 <div style="display:flex; flex-direction: row; justify-items: center; justify-content: center; align-items: center; align-content: center; min-height: 40px; margin-bottom: 15px">
