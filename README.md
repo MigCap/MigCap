@@ -35,8 +35,6 @@
 
 ### 🐜 What I am up to
 - 🌱 I’m currently learning GraphQL, Next.js, JAMstack, testing
-- 👯 I’m looking to collaborate on open source projects
-
 
 ### Connect with me:
 
