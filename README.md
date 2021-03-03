@@ -2,7 +2,7 @@
 ### 👋👋👋
 
 <a href="https://miguelcapellan.com" target="_blank">
-  <img src="https://drive.google.com/file/d/1gvyTAOCY7UaZR1CBsvqvc55TA9uAUwCs/preview" alt="Miguel Capellan website pic" style="border-radius: 5px; width: 100%">
+  <img src="https://drive.google.com/file/d/1gvyTAOCY7UaZR1CBsvqvc55TA9uAUwCs/preview" width="640" height="480" alt="Miguel Capellan website pic" style="border-radius: 5px; width: 100%">
 </a>
 
 ### 🧰 Tools
