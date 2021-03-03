@@ -20,7 +20,6 @@
   <img align="left" alt="Gatsby" title="Gatsby" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
   <img align="left" alt="NextJS" title="NextJS" width="26px" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
   <img align="left" alt="Webpack" title="Webpack" width="29px" height="29px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/webpack/webpack-original.svg" />
-
   <img align="left" alt="Terminal" title="Terminal" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   <img align="left" alt="Node.js" title="Node.js" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img align="left" alt="Firebase" title="Firebase" width="26px" height="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
