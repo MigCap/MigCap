@@ -34,7 +34,7 @@
 <br />
 
 ### 🐜 What I am up to
-- 🌱 I’m currently diving in GraphQL, Next.js, JAMstack, Testing
+- 🌱 I’m currently exploring GraphQL, Next.js, JAMstack, Testing (Jest & React Testing Library) and Typescript.
 
 ### Connect with me
 
