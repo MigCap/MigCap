@@ -2,7 +2,7 @@
 ### 👋👋👋
 
 <a href="https://miguelcapellan.com" target="_blank">
-  <img src="https://drive.google.com/uc?export=view&id=1Mz6xnLNdPQrNGFJVMQtr_suCJxStQU59" alt="Miguel Capellan website pic" style="border-radius: 5px; width: 100%">
+  <img src="https://drive.google.com/file/d/1gvyTAOCY7UaZR1CBsvqvc55TA9uAUwCs/view?usp=sharing" alt="Miguel Capellan website pic" style="border-radius: 5px; width: 100%">
 </a>
 
 ### 🧰 Tools
@@ -36,14 +36,14 @@
 ### 🐜 What I am up to
 - 🌱 I’m currently diving in GraphQL, Next.js, JAMstack, Testing
 
-### Connect with me:
+### Connect with me
 
   [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
   [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Listening to:
+### Listening to
 [<img src="https://spotify-now-playing-readme.vercel.app/api/spotify" alt="Kp Spotify Playing" width="350" />](https://open.spotify.com/user/kaps01)
 
 ---
