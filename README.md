@@ -15,7 +15,7 @@
   <img align="left" alt="TypeScript" title="TypeScript" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/typescript/typescript-original.svg" />
   <img align="left" alt="ReactJS" title="ReactJS" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg" />
   <img align="left" alt="GraphQL" title="GraphQL" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
-  <img align="left" alt="Apollo Client" title="Apollo Client" width="30px" height="30px" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" />
+  <img align="left" alt="Apollo Client" title="Apollo Client" width="30px" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d56a2b3b9d3709c9e00eb42742ae6db0844f6e2d/icons/apollographql.svg" />
   <img align="left" alt="Redux" title="Redux" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/redux/redux-original.svg" />
   <img align="left" alt="Gatsby" title="Gatsby" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
   <img align="left" alt="NextJS" title="NextJS" width="26px" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
