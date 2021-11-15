@@ -1,49 +1,49 @@
-<!-- ### Hi there, I'm Miguel - aka [Kp][website] 👋👋👋 -->
-### 👋👋👋
+# <img src="https://cdn.jsdelivr.net/gh/MigCap/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hey there, welcome</b>
 
-<a href="https://miguelcapellan.com" target="_blank">
-  <img src="https://drive.google.com/uc?id=1gvyTAOCY7UaZR1CBsvqvc55TA9uAUwCs" alt="Miguel Capellan website pic" style="border-radius: 5px; width: 100%">
-</a>
+<p aligh="left">
+  I'm Miguel, Front End developer and music lover from <b>Madrid, Spain</b>.
+</p>
+<br>
 
-### 🧰 Tools
+💡 &nbsp;I like to explore new trends, learn new technologies and use them to build things for the web.\
+🌱 &nbsp;I'm on track for learning more about <a style="color:#eded42" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><u>Javascript</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a>, <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#ed42dc" href="https://graphql.org/" target="_blank"><u>GraphQL</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
+💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
+</p>
+<br>
 
-<div style="display:flex; flex-direction: row; justify-items: center; justify-content: center; align-items: center; align-content: center; margin-bottom: 15px;">
-  <img align="left" alt="HTML5" title="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="left" alt="CSS3" title="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img align="left" alt="Sass" title="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img align="left" alt="JavaScript" title="JavaScript" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="TypeScript" title="TypeScript" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/typescript/typescript-original.svg" />
-  <img align="left" alt="ReactJS" title="ReactJS" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg" />
-  <img align="left" alt="GraphQL" title="GraphQL" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
-  <img align="left" alt="Apollo Client" title="Apollo Client" width="30px" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d56a2b3b9d3709c9e00eb42742ae6db0844f6e2d/icons/apollographql.svg" />
-  <img align="left" alt="Redux" title="Redux" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/redux/redux-original.svg" />
-  <img align="left" alt="Gatsby" title="Gatsby" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-  <img align="left" alt="NextJS" title="NextJS" width="26px" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
-  <img align="left" alt="Webpack" title="Webpack" width="29px" height="29px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/webpack/webpack-original.svg" />
-  <img align="left" alt="Terminal" title="Terminal" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  <img align="left" alt="Node.js" title="Node.js" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img align="left" alt="Firebase" title="Firebase" width="26px" height="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-  <img align="left" alt="Git" title="Git" width="26px" height="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  <img align="left" alt="Jenkins" title="Jenkins" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
-</div>
+<h2>👨🏻‍💻 &nbsp;Things I code with</h2>
+<p>
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-0AB6D3?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="SASS/SCSS" src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+  <img alt="Pug" src="https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=pug&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
-<br />
-<br />
-
-### 🐜 What I am up to
-- 🌱 I’m currently exploring GraphQL, Next.js, JAMstack, Testing (Jest & React Testing Library) and Typescript.
-
-### Connect with me
-
-  [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### 🎧 Listening to
-[<img src="https://spotify-now-playing-readme.vercel.app/api/spotify" alt="Kp Spotify Playing" width="350" />](https://open.spotify.com/user/kaps01)
-
----
-
-[website]: https://miguelcapellan.com
-[linkedin]: https://linkedin.com/in/miguel-capellan
+<h2>🌎  &nbsp;Where to find me</h2>
+<p>
+  <a href="https://miguelcapellan.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/miguel-capellan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+  
+<h2>🔊  &nbsp;Music I dig</h2>
+<p>
+<a href="https://open.spotify.com/user/kaps01/" target="_blank"><img src="https://spotify-now-playing-readme.vercel.app/api/spotify" alt="Kp Spotify Playing" width="350" /></a>
+</p>
