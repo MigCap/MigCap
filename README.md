@@ -25,10 +25,10 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" />
-  <img alt="Grunt" src="https://img.shields.io/badge/-Grunt-FAA918?style=flat-square&logo=grunt&logoColor=black" />
+  <img alt="Grunt" src="https://img.shields.io/badge/-Grunt-FAA918?style=flat-square&logo=grunt&logoColor=white" />
   <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white" />
-</span>
   <img alt="Handlebars" src="https://img.shields.io/badge/-Handlebars-000000?style=flat-square&logo=handlebarsdotjs&logoColor=white" />
+</span>
 <br>
 <span>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -45,6 +45,12 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</span>
+<br>
+<span>
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="Testing Library" src="https://img.shields.io/badge/-Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
 </span>
 <br>
 <span>
