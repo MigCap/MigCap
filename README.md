@@ -50,6 +50,7 @@
     <img align="left" alt="Jenkins" title="Jenkins" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
   </div>
 </div>
+<br/>
 
 <h2>🌎  &nbsp;Where to find me</h2>
 <p>
