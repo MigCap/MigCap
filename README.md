@@ -13,7 +13,43 @@
 <br>
 
 <h2>👨🏻‍💻 &nbsp;Tools I code with</h2>
-<span>
+
+<div style="display:flex; flex-direction: row; justify-items: center; justify-content: start; align-items: center; align-content: center; margin-bottom: 15px;">
+  <img align="left" alt="HTML5" title="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align="left" alt="CSS3" title="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" alt="JavaScript" title="JavaScript" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="TypeScript" title="TypeScript" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/typescript/typescript-original.svg" />
+  <img align="left" alt="Markdown" title="Markdown" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
+</div>
+
+<div style="display:flex; flex-direction: row; justify-items: center; justify-content: start; align-items: center; align-content: center; margin-bottom: 15px;">
+  <img align="left" alt="Webpack" title="Webpack" width="29px" height="29px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/webpack/webpack-original.svg" />
+  <img align="left" alt="Vite" title="Vite" width="26px" height="26px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" />
+  <img align="left" alt="Rollup" title="Rollup" width="29px" height="29px" src="https://camo.githubusercontent.com/50e43473527a57747fb7cd9b0061355205ac9a2763207a78d9812ceef1da52c0/68747470733a2f2f726f6c6c75706a732e6f72672f6c6f676f2e737667" />
+  <img align="left" alt="Handlebars" title="Handlebars" width="25px" height="25px" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" />
+</div>
+
+<div style="display:flex; flex-direction: row; justify-items: center; justify-content: start; align-items: center; align-content: center; margin-bottom: 15px;">
+  <img align="left" alt="ReactJS" title="ReactJS" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg" />
+  <img align="left" alt="NextJS" title="NextJS" width="26px" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
+  <img align="left" alt="Gatsby" title="Gatsby" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+  <img align="left" alt="Redux" title="Redux" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/redux/redux-original.svg" />
+  <img align="left" alt="GraphQL" title="GraphQL" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
+  <img align="left" alt="Apollo Client" title="Apollo Client" width="26px" height="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d56a2b3b9d3709c9e00eb42742ae6db0844f6e2d/icons/apollographql.svg" />
+  <img align="left" alt="ESLint" title="ESLint" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
+  <img align="left" alt="Prettier" title="Prettier" width="22px" height="22px" src="https://prettier.io/icon.png" />
+  <img align="left" alt="Sass" title="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+</div>
+
+<div style="display:flex; flex-direction: row; justify-items: center; justify-content: start; align-items: center; align-content: center; margin-bottom: 15px;">
+  <img align="left" alt="Terminal" title="Terminal" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <img align="left" alt="Node.js" title="Node.js" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img align="left" alt="Firebase" title="Firebase" width="26px" height="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+  <img align="left" alt="Git" title="Git" width="26px" height="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+  <img align="left" alt="Jenkins" title="Jenkins" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+</div>
+
+<!-- <span>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -61,7 +97,7 @@
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
-</span>
+</span> -->
 
 <h2>🌎  &nbsp;Where to find me</h2>
 <p>
