@@ -8,8 +8,6 @@
 💡 &nbsp;I like to explore new trends, learn new technologies and use them to build things for the web.\
 🌱 &nbsp;I'm on track for learning more about <a style="color:#eded42" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><u>Javascript</u></a>, <a style="color:#3174C1" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a>, <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#ed42dc" href="https://graphql.org/" target="_blank"><u>GraphQL</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
 💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
-
-</p>
 <br>
 
 <h2>👨🏻‍💻 &nbsp;Tools I code with</h2>
@@ -50,7 +48,7 @@
     <img align="left" alt="Jenkins" title="Jenkins" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
   </div>
 </div>
-<br/>
+<br>
 
 <h2>🌎  &nbsp;Where to find me</h2>
 <p>
