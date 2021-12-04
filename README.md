@@ -53,11 +53,11 @@
 <br />
 <br />
 
-<h2>🌎  &nbsp;Where to find me</h2>
-  <a href="https://miguelcapellan.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/miguel-capellan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
 <h2>🔊  &nbsp;Music I dig</h2>
 <p>
 <a href="https://open.spotify.com/user/kaps01/" target="_blank"><img src="https://spotify-now-playing-readme.vercel.app/api/spotify" alt="Kp Spotify Playing" width="350" /></a>
 </p>
+
+<h2>🌎  &nbsp;Where to find me</h2>
+  <a href="https://miguelcapellan.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/miguel-capellan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
