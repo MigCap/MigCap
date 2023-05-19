@@ -25,7 +25,6 @@
   <section style="display:flex; flex-direction: row; justify-items: center; justify-content: start; align-items: center; align-content: center; margin-bottom: 15px;">
     <img align="left" alt="Webpack" title="Webpack" width="29px" height="29px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/webpack/webpack-original.svg" />
     <img align="left" alt="Vite" title="Vite" width="26px" height="26px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" />
-    <img align="left" alt="Rollup" title="Rollup" width="29px" height="29px" src="https://camo.githubusercontent.com/50e43473527a57747fb7cd9b0061355205ac9a2763207a78d9812ceef1da52c0/68747470733a2f2f726f6c6c75706a732e6f72672f6c6f676f2e737667" />
     <img align="left" alt="Handlebars" title="Handlebars" width="25px" height="25px" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" />
   </section>
   <br />
