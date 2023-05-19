@@ -12,7 +12,7 @@
 <br />
 
 
-<h2>👨🏻‍💻 &nbsp;Tools I code with</h2>
+<h2>👨🏻‍💻 &nbsp;Tools I code(d) with</h2>
   <section style="display:flex; flex-direction: row; justify-items: center; justify-content: start; align-items: center; align-content: center; margin-bottom: 15px;">
     <img align="left" alt="HTML5" title="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     <img align="left" alt="CSS3" title="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
