@@ -1,7 +1,7 @@
 # <img src="https://cdn.jsdelivr.net/gh/MigCap/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hey there, welcome !!!</b>
 
 <p aligh="left">
-  I'm Miguel, Front End developer and music lover from <b>Madrid, Spain</b>.
+  I'm Miguel, Software Engineer and music lover from <b>Madrid, Spain</b>.
 </p>
 <br>
 
